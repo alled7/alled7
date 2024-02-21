@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-Welcome to my GitHub profile! I'm Jesus, passionate about technology, continuous learning and contributing to the open source community.
+Welcome to my GitHub profile! I'm Rafael, passionate about technology, continuous learning and contributing to the open source community.
 
 🔭 I'm currently working on: Learning how to use GitHub effectively and improving my programming skills. I am exploring different projects and familiarizing myself with best practices in software development.
 
