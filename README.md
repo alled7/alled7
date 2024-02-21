@@ -13,5 +13,5 @@ Welcome to my GitHub profile! I'm Rafael, passionate about technology, continuou
 
 💬 Ask me about: Artificial Intelligence. Although I'm still on my learning journey, I'm more than willing to share what I've learned so far and discuss fascinating ideas in this field.
 
-📫 How to contact me: The best way to reach me is through my email aled7agency@gmail.com. I'm open to discussing collaboration opportunities, projects, or just ch
+📫 How to contact me: The best way to reach me is through my email rkablym@atid.edu.mx. I'm open to discussing collaboration opportunities, projects, or just ch
 -->
